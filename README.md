@@ -8,7 +8,7 @@
     "fun_fact": "I have a bachelor's in electrical engineering and a master's in architecture. Also, I play guitar and do painting." 
     }
 
-#Print the formatted introduction
+     #Print the formatted introduction
 
      print(f"- 👋 Hi, I'm {intro_info['name']}")
      print(f"- 👀 I’m interested in {', '.join(intro_info['interests'])}")
