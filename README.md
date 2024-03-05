@@ -1,10 +1,12 @@
-- 👋 Hi, I'm Hamed Rahkooy
-- 👀 I’m interested in web scraping, marketing automation, financial data analysis, and blockchain solutions architecture
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on digital marketing projects and cryptocurrency trading
-- 📫 How to reach me: [GitHub](https://github.com/Hamed-Rahkooy), [LinkedIn](https://www.linkedin.com/in/hamed-r-436357ba/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a bachelor's in Electrical Engineering and a master's in Architecture Engineering. Also, I play guitar and do painting.
+intro_info = {
+    "name": "Hamed Rahkooy",
+    "interests": ["web scraping", "marketing automation", "financial data analysis", "blockchain solutions architecture"],
+    "learning": "data science",
+    "collaborate": ["digital marketing projects", "cryptocurrency trading"],
+    "contact": {"GitHub": "https://github.com/Hamed-Rahkooy", "LinkedIn": "https://www.linkedin.com/in/hamed-rahkooy/"},
+    "pronouns": "he/him",
+    "fun_fact": "I have a bachelor's in electrical engineering and a master's in architecture. Also, I play guitar and do painting."
+}
 
 
 <!---
